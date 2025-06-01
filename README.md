@@ -32,30 +32,6 @@ A modern Next.js application for managing and selling video content using ImageK
 - Razorpay Account
 - SMTP Server (for email notifications)
 
-## Getting Started
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd imagekit-video-main
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Configure environment variables:
-   - Copy `.env.example` to `.env`
-   - Fill in the required environment variables
-
-4. Run the development server:
-```bash
-npm run dev
-```
-
-5. Open [http://localhost:3000](http://localhost:3000) in your browser
-
 ## Environment Variables
 
 Create a `.env` file with the following variables:
